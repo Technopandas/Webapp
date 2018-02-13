@@ -18,3 +18,5 @@ Output: Visual graphs, reports, numerical scores.
 
 APIs: we'll code APIs for processing the data. For eg. If user wants to predict house rates in a particular area of a city, he'll give feed his data to our machine learning model. He can choose the model he wants. our API will give him his desired output in graphical format, report format and as numerical scores.
 
+Our second module will be web scraping. User will feed our model with a url. He'll get a semi-structured(json or xml, whichever user wants) document which he can process using our APIs or his own functions. 
+
